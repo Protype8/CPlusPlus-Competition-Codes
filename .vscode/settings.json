@@ -53,6 +53,8 @@
         "queue": "cpp",
         "deque": "cpp",
         "map": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "random": "cpp",
+        "filesystem": "cpp"
     }
 }
